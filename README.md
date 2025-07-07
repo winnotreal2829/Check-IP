@@ -1,2 +1,2 @@
-# Check-IP
-Check ip và location 
+# Yeumoney Test Alpha
+Bypass yeumoney test
