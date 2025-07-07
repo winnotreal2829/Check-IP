@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Applies custom styles to Yeumoney.com
-// @author       YourName (Thay thế bằng tên của bạn nếu muốn)
+// @author       xTer
 // @match        https://yeumoney.com/*
 // @grant        GM_addStyle
 // ==/UserScript==
