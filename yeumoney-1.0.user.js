@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Yeumoney Bypass Beta 
+// @name         Yeumoney Bypass
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @author        xTer
